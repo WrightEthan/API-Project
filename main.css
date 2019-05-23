@@ -1,0 +1,39 @@
+.sign {
+    background-color: tan;
+    border: 3px solid black;
+    width: 500px;
+    height: 300px;
+    margin-top: -25px;
+    position: relative;
+}
+
+#nfbody{
+    height: 300px;
+    width: 250px;
+    background-color: black;
+    float: left;
+    z-index: 0;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.nfTopHand{
+
+}
+
+.nfBottomHand{
+
+}
+
+.nfMask {
+    border-radius: 20%;
+    margin-top: 200px;
+    margin-left: 200px;
+    position: relative;
+}
+
+#description {
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
